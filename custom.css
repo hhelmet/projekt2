@@ -1,0 +1,73 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.active {
+    color: blue;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 1em;
+    text-align: center;
+}
+
+
+/* sots.võrgustike ikoonid */
+.footer-sm {
+    width: 40px;
+    float: inline-end; 
+    }
+  
+ 
+
+    
+      .footer-sm img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 15px;
+        font-size: 30px;
+        width: 50px;
+        text-align: inline-end;
+        text-decoration: none;
+        }
+    
+
+      
+.jumbotron {
+    background-color: #757575;
+    text-align: center;
+    height: 200px
+}
+
